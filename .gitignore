@@ -1,4 +1,4 @@
 
 #ignore all the class files
-**/.class
+src/main/com/program/myEditor/*.class
 
